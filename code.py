@@ -1,5 +1,5 @@
 import os 
 
 def hello(name):
-  print(name)
+  pass
 hello("Simon")
